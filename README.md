@@ -1,7 +1,5 @@
 # Drone-Enabled Food Delivery Model 🚁🍔
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Piyush2567/Python---Drone-Delivery-Solution/blob/main/notebooks/drone_delivery_analysis_with_outputs.ipynb)
-
 **Duration:** April 2025 – May 2025  
 **Objective:** Design a cost-effective, scalable last-mile food delivery model using drones.
 
@@ -14,6 +12,14 @@
 - ROI (monthly): 160.12%  
 
 ---
+## 🧾 STAR Summary
+- **Situation:** Rising delivery costs and inefficiencies in last-mile food delivery.  
+- **Task:** Create a scalable, cost-effective model.  
+- **Action:** Built drone-based framework, analyzed demand, developed ROI projections.  
+- **Result:** Achieved **20–25% cost reduction** and boosted investor confidence by **15%**.  
+
+---
+
 
 ## 📊 Notebook & Visuals
 
