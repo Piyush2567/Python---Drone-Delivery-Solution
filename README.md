@@ -18,7 +18,8 @@
 ## 📊 Notebook & Visuals
 
 - 📓 **Analysis notebook:**  
-  [notebooks/drone_delivery_analysis_with_outputs.ipynb](notebooks/drone_delivery_analysis_with_outputs.ipynb)
+  [Drone Delivery Analysis](drone_delivery_analysis_with_outputs.ipynb)
+
 
 - Key charts:
 
