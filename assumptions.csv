@@ -1,0 +1,14 @@
+Metric,Value,Unit,Notes
+Drone_Capex,130000,INR,Cost per drone
+Drone_Maintenance_Monthly,6500,INR,Regular maintenance
+Drone_Battery_Cost,13000,INR,Per battery (life ~3 months)
+Drone_Battery_Life_Months,3,months,Battery replacement cycle
+Drone_Amortization_Months,24,months,Capex amortization period
+Drone_Variable_Cost_Per_Order,12,INR,Power + handling per order
+Rider_Salary_Monthly,4000,INR,Fixed pay per rider
+Rider_Cost_Per_Delivery,55,INR,Per completed order incl. incentives
+Rider_Attrition_Training_Monthly,2000,INR,Training/replacement overhead
+Orders_Per_Month,400,orders,Per service zone (pilot)
+Target_Cost_Reduction_Low,20,percent,Target narrative lower bound
+Target_Cost_Reduction_High,25,percent,Target narrative upper bound
+Investor_Confidence_Improvement,15,percent,Qualitative->quant metric
